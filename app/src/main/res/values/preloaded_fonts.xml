@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/</item>
+        <item>@font/aldrich</item>
+        <item>@font/arbutus</item>
+        <item>@font/averia_sans_libre_bold</item>
+        <item>@font/cutive</item>
+        <item>@font/frank_ruhl_libre_bold</item>
+        <item>@font/galindo</item>
+        <item>@font/poppins_bold</item>
+    </array>
+</resources>

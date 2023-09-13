@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/userAPI/app/src/main/res/drawable/almondcolor.xml" value="0.196" />
+        <entry key="..\:/userAPI/app/src/main/res/drawable/backgroundselect3.xml" value="0.196" />
+        <entry key="..\:/userAPI/app/src/main/res/drawable/blackberrycolor.xml" value="0.196" />
+        <entry key="..\:/userAPI/app/src/main/res/drawable/colograystyle.xml" value="0.196" />
+        <entry key="..\:/userAPI/app/src/main/res/drawable/fourthcolor.xml" value="0.196" />
+        <entry key="..\:/userAPI/app/src/main/res/drawable/mangocolor.xml" value="0.196" />
+        <entry key="..\:/userAPI/app/src/main/res/drawable/mintcolor.xml" value="0.196" />
+        <entry key="..\:/userAPI/app/src/main/res/drawable/peachcolor.xml" value="0.196" />
+        <entry key="..\:/userAPI/app/src/main/res/drawable/raspberrycolor.xml" value="0.196" />
+        <entry key="..\:/userAPI/app/src/main/res/drawable/whitegray.xml" value="0.196" />
+        <entry key="..\:/userAPI/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/userAPI/app/src/main/res/layout/activity_museum.xml" value="0.24873096446700507" />
+        <entry key="..\:/userAPI/app/src/main/res/layout/activity_splash.xml" value="0.3074074074074074" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
